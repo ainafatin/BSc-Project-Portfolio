@@ -8,3 +8,5 @@ A portfolio of projects completed during my undergraduate studies. The following
 3. [An Analysis on Denggue Cases using SAS and R](/denggue-analysis)
 
 4. [Sentiment Analysis on Amazon Reviews using R](/sentiment-analysis-with-r)
+
+5. [Predicting Fake News or Real News using SAS Enterprise Miner](/fake-news)
